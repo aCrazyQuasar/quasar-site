@@ -13,3 +13,4 @@ Literally just the resources for QG. If you don't know what I am talking about, 
 ### Updates
  - I added like a proxy thing
  - I added a feedback form
+ - I redid the proxy system thingy majigy. That's a fun word.
