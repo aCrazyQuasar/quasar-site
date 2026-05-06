@@ -1,5 +1,5 @@
 # Quasar Games
----
+
 Literally just the resources for QG. If you don't know what I am talking about, then visit [this link](tinyurl.com/areyou5ure).
 
 ## Other Stuff
